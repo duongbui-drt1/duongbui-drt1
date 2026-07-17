@@ -8,7 +8,7 @@
 
 ## ☕ Về mình
 
-* 🎓 **Hiện tại:** Sinh viên chuyên ngành **Tài Chính - Tiền Tệ** tại Trường Đại học Công nghệ Giao thông vận tải (UTT).
+* 🎓 **Hiện tại:** Sinh viên ngành **Tài Chính - Tiền Tệ** tại Trường Đại học Công nghệ Giao thông vận tải (UTT).
 * 👀 **Sở thích lớn nhất:** Một ly cà phê thật to để kích hoạt não bộ ☕✨
 * 🌱 **Hành trình hiện tại:** Đang trên con đường chinh phục các dòng code và xây dựng những dự án cá nhân.
 * 💞️ **Hợp tác:** Hiện tại mình đang tận hưởng việc "solo" nên **KHÔNG** có nhu cầu collab với ai cả đâu nhé! :))
